@@ -1,2 +1,3 @@
 # LITA_Project
-This is where i documented my first project while learning Data Analysis
+## LITA_Class_Project
+### LITA_Class_Project
